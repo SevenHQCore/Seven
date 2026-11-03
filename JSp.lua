@@ -922,4 +922,4 @@ Players.PlayerRemoving:Connect(function(player)
     removeTracer(player)
 end)
 
-Library:Notify("PIXHUB Loaded (LinoriaLib)")
+Library:Notify("Seven Loaded (LinoriaLib)")
