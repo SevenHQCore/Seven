@@ -12,7 +12,7 @@ local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 -- Create Window
 local Window = Library:CreateWindow({
-    Title = 'PIXHUB | Admin & Tools',
+    Title = 'Seven | Admin & Tools',
     Size = UDim2.fromOffset(680, 520),
     Center = true,
     AutoShow = true,
